@@ -40,4 +40,4 @@ If there is no food left after the customer orders a particular kind of food, we
 (of any restaurant diagram with processes happening - may be in animated form to better explain what we're doing)
 
 ## Credits
-This project is presented by @shreya-saini-07, @Mitansh-Khurana and @manisha-singh22 inh reference to a simulation project contributed by khuyentran1401
+This project is presented by @shreya-saini-07, @Mitansh-Khurana and @manisha-singh22 in reference to a simulation project contributed by khuyentran1401

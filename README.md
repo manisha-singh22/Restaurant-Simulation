@@ -1,4 +1,4 @@
-# SIMULATION OF RESTAURANT FOOD SUPPLY
+# SIMULATING RESTAURANT FOOD SUPPLY
 
 ## Introduction
 It often gets challenging for restaurants to estimate the food supply for the week in order to avoid any shortage of food or wastage of food. In order to tackle this problem, here we are trying to create a simulated environment of a restaurant with 2 processes: Waiter and Customer, interacting with the environment via Events like Taking orders from customers, Giving orders to the cooks, Serving food to customers 
@@ -39,5 +39,5 @@ If there is no food left after the customer orders a particular kind of food, we
 ## Screenshots
 (of any restaurant diagram with processes happening - may be in animated form to better explain what we're doing)
 
-## Credits
+## Credits
 This project is presented by @shreya-saini-07, @Mitansh-Khurana and @manisha-singh22 inh reference to a simulation project contributed by khuyentran1401
